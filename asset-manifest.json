@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Jun-Ng.github.io/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/Jun-Ng.github.io/static/js/main.935ff386.chunk.js",
+    "main.js.map": "/Jun-Ng.github.io/static/js/main.935ff386.chunk.js.map",
+    "runtime-main.js": "/Jun-Ng.github.io/static/js/runtime-main.d28140e4.js",
+    "runtime-main.js.map": "/Jun-Ng.github.io/static/js/runtime-main.d28140e4.js.map",
+    "static/js/2.c9a9036d.chunk.js": "/Jun-Ng.github.io/static/js/2.c9a9036d.chunk.js",
+    "static/js/2.c9a9036d.chunk.js.map": "/Jun-Ng.github.io/static/js/2.c9a9036d.chunk.js.map",
+    "static/js/3.14f17e59.chunk.js": "/Jun-Ng.github.io/static/js/3.14f17e59.chunk.js",
+    "static/js/3.14f17e59.chunk.js.map": "/Jun-Ng.github.io/static/js/3.14f17e59.chunk.js.map",
+    "index.html": "/Jun-Ng.github.io/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/Jun-Ng.github.io/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.c9a9036d.chunk.js.LICENSE.txt": "/Jun-Ng.github.io/static/js/2.c9a9036d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Jun-Ng.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d28140e4.js",
+    "static/js/2.c9a9036d.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.935ff386.chunk.js"
+  ]
+}
